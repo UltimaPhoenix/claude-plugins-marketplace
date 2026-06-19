@@ -1,0 +1,20 @@
+{
+  "name": "ultimaphoenix",
+  "owner": {
+    "name": "UltimaPhoenix",
+    "url": "https://github.com/UltimaPhoenix"
+  },
+  "plugins": [
+    {
+      "name": "devcoach",
+      "version": "0.3.62",
+      "description": "Progressive technical coach: auto lessons, knowledge map, Stop hooks.",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/UltimaPhoenix/dev-coach.git",
+        "path": "plugin",
+        "ref": "main"
+      }
+    }
+  ]
+}
