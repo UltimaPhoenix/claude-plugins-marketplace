@@ -7,13 +7,13 @@
   "plugins": [
     {
       "name": "devcoach",
-      "version": "0.9.4",
+      "version": "0.9.5",
       "description": "Progressive technical coach: auto lessons, knowledge map, Stop hooks.",
       "source": {
         "source": "git-subdir",
         "url": "https://github.com/UltimaPhoenix/dev-coach.git",
         "path": "plugin",
-        "ref": "v0.9.4"
+        "ref": "v0.9.5"
       }
     }
   ]
