@@ -18,6 +18,12 @@ UltimaPhoenix's plugins. Add it once, then install any plugin from it.
 /plugin install devcoach@ultimaphoenix
 ```
 
+## Beta channel
+
+Want what is coming next? [claude-plugins-marketplace-beta](https://github.com/UltimaPhoenix/claude-plugins-marketplace-beta)
+carries the same plugins pinned to their latest canary build (`/plugin install devcoach@ultimaphoenix-beta`).
+Enable one channel at a time: both ship the same hooks.
+
 ## Maintenance
 
 `.claude-plugin/marketplace.json` is the catalog. Each plugin's own repo CI keeps its entry pinned to
